@@ -26,6 +26,10 @@ public class Listpractice {
 				
 			}
 			
+				while(ite.hasPrevious())
+				{
+					System.out.println(ite.previous());
+				}
 		}
 		public static void main(String[] args) {
 			// TODO Auto-generated method stub
