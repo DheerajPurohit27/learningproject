@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="testListeners.TestListeners"/>
+  </listeners>
+  <test thread-count="5" parallel="tests" name="ieTest(failed)">
+    <parameter name="browser" value="ie"/>
+    <classes>
+      <class name="ca.amazon.tests.TC01VerifyLoginPageDisplay">
+        <methods>
+          <include name="CloseWebDriver"/>
+          <include name="StartBrowser"/>
+          <include name="verifyLogin"/>
+        </methods>
+      </class> <!-- ca.amazon.tests.TC01VerifyLoginPageDisplay -->
+    </classes>
+  </test> <!-- ieTest(failed) -->
+  <test thread-count="5" parallel="tests" name="firefoxTest(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="ca.amazon.tests.TC01VerifyLoginPageDisplay">
+        <methods>
+          <include name="CloseWebDriver"/>
+          <include name="StartBrowser"/>
+          <include name="verifyLogin"/>
+        </methods>
+      </class> <!-- ca.amazon.tests.TC01VerifyLoginPageDisplay -->
+    </classes>
+  </test> <!-- firefoxTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

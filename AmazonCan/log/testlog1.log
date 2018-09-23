@@ -1,0 +1,122 @@
+2018-09-23 02:31:48,096 [main] INFO Base - ----------Test Started------------
+2018-09-23 02:32:16,864 [main] INFO Base - ---------Application Launched----------
+2018-09-23 02:32:28,317 [main] INFO TC01VerifyLoginPageDisplay - PaperWhite item is selected
+2018-09-23 02:32:33,900 [main] INFO TC01VerifyLoginPageDisplay - Qantity of PaperWhite is increased to 2
+2018-09-23 02:32:34,369 [main] INFO TC01VerifyLoginPageDisplay - PapaerWhite is added into Cart
+2018-09-23 02:32:40,004 [main] INFO TC01VerifyLoginPageDisplay - Now, you have proceeded for checkout
+2018-09-23 02:32:43,788 [main] INFO Base - ----------Test End------------
+2018-09-23 03:31:05,641 [main] INFO Base - ----------Test Started------------
+2018-09-23 03:31:18,596 [main] INFO Base - ---------Application Launched----------
+2018-09-23 03:42:18,616 [main] INFO Base - ----------Test Started------------
+2018-09-23 03:42:47,221 [main] INFO Base - ---------Application Launched----------
+2018-09-23 03:43:02,626 [main] INFO TC01VerifyLoginPageDisplay - PaperWhite item is selected
+2018-09-23 03:43:07,679 [main] INFO TC01VerifyLoginPageDisplay - Qantity of PaperWhite is increased to 2
+2018-09-23 03:43:08,191 [main] INFO TC01VerifyLoginPageDisplay - PapaerWhite is added into Cart
+2018-09-23 03:43:17,287 [main] INFO TC01VerifyLoginPageDisplay - Now, you have proceeded for checkout
+2018-09-23 03:43:18,833 [main] INFO Base - ----------Test End------------
+2018-09-23 11:27:54,836 [main] INFO Base - ----------Test Started------------
+2018-09-23 11:28:19,899 [main] INFO Base - ---------Application Launched----------
+2018-09-23 11:28:30,947 [main] INFO TC01VerifyLoginPageDisplay - PaperWhite item is selected
+2018-09-23 11:28:34,507 [main] INFO TC01VerifyLoginPageDisplay - Qantity of PaperWhite is increased to 2
+2018-09-23 11:28:34,970 [main] INFO TC01VerifyLoginPageDisplay - PapaerWhite is added into Cart
+2018-09-23 11:28:40,298 [main] INFO TC01VerifyLoginPageDisplay - Now, you have proceeded for checkout
+2018-09-23 11:28:41,282 [main] INFO Base - ----------Test End------------
+2018-09-23 12:06:24,080 [main] INFO Base - ----------Test Started------------
+2018-09-23 12:06:47,825 [main] INFO Base - ---------Application Launched----------
+2018-09-23 12:07:04,926 [main] INFO TC01VerifyLoginPageDisplay - PaperWhite item is selected
+2018-09-23 12:07:05,265 [main] INFO TC01VerifyLoginPageDisplay - Qantity of PaperWhite is increased to 2
+2018-09-23 12:07:05,708 [main] INFO TC01VerifyLoginPageDisplay - PapaerWhite is added into Cart
+2018-09-23 12:07:12,877 [main] INFO TC01VerifyLoginPageDisplay - Now, you have proceeded for checkout
+2018-09-23 12:07:13,775 [main] INFO Base - ----------Test End------------
+2018-09-23 12:58:01,270 [main] INFO Base - ----------Test Started------------
+2018-09-23 12:58:23,345 [main] INFO Base - ---------Application Launched----------
+2018-09-23 12:58:27,254 [main] INFO Base - ----------Test End------------
+2018-09-23 12:59:07,622 [main] INFO Base - ----------Test Started------------
+2018-09-23 12:59:57,574 [main] INFO Base - ---------Application Launched----------
+2018-09-23 13:00:00,208 [main] INFO Base - ----------Test End------------
+2018-09-23 13:02:01,862 [main] INFO Base - ----------Test Started------------
+2018-09-23 13:02:22,780 [main] INFO Base - ---------Application Launched----------
+2018-09-23 13:02:27,058 [main] INFO Base - ----------Test End------------
+2018-09-23 13:20:38,896 [main] INFO Base - ----------Test Started------------
+2018-09-23 13:21:01,494 [main] INFO Base - ---------Application Launched----------
+2018-09-23 13:21:15,832 [main] INFO TC01VerifyLoginPageDisplay - PaperWhite item is selected
+2018-09-23 13:21:20,950 [main] INFO TC01VerifyLoginPageDisplay - Qantity of PaperWhite is increased to 2
+2018-09-23 13:21:21,465 [main] INFO TC01VerifyLoginPageDisplay - PapaerWhite is added into Cart
+2018-09-23 13:21:29,587 [main] INFO TC01VerifyLoginPageDisplay - Now, you have proceeded for checkout
+2018-09-23 13:21:34,377 [main] INFO Base - ----------Test End------------
+2018-09-23 13:35:14,673 [main] INFO Base - ----------Test Started------------
+2018-09-23 13:35:39,371 [main] INFO Base - ---------Application Launched----------
+2018-09-23 13:35:50,956 [main] INFO TC01VerifyLoginPageDisplay - PaperWhite item is selected
+2018-09-23 13:35:59,527 [main] INFO TC01VerifyLoginPageDisplay - Qantity of PaperWhite is increased to 2
+2018-09-23 13:35:59,961 [main] INFO TC01VerifyLoginPageDisplay - PapaerWhite is added into Cart
+2018-09-23 13:36:05,954 [main] INFO TC01VerifyLoginPageDisplay - Now, you have proceeded for checkout
+2018-09-23 13:36:12,980 [main] INFO Base - ----------Test End------------
+2018-09-23 13:48:58,516 [main] INFO Base - ----------Test Started------------
+2018-09-23 13:49:20,922 [main] INFO Base - ---------Application Launched----------
+2018-09-23 13:49:31,130 [main] INFO TC01VerifyLoginPageDisplay - PaperWhite item is selected
+2018-09-23 13:49:35,612 [main] INFO TC01VerifyLoginPageDisplay - Qantity of PaperWhite is increased to 2
+2018-09-23 13:49:36,173 [main] INFO TC01VerifyLoginPageDisplay - PapaerWhite is added into Cart
+2018-09-23 13:49:43,070 [main] INFO TC01VerifyLoginPageDisplay - Now, you have proceeded for checkout
+2018-09-23 13:49:46,083 [main] INFO Base - ----------Test End------------
+2018-09-23 13:51:41,503 [main] INFO Base - ----------Test Started------------
+2018-09-23 13:52:03,146 [main] INFO Base - ---------Application Launched----------
+2018-09-23 13:52:12,695 [main] INFO TC01VerifyLoginPageDisplay - PaperWhite item is selected
+2018-09-23 13:52:16,048 [main] INFO TC01VerifyLoginPageDisplay - Qantity of PaperWhite is increased to 2
+2018-09-23 13:52:16,474 [main] INFO TC01VerifyLoginPageDisplay - PapaerWhite is added into Cart
+2018-09-23 13:52:21,867 [main] INFO TC01VerifyLoginPageDisplay - Now, you have proceeded for checkout
+2018-09-23 13:52:25,582 [main] INFO Base - ----------Test End------------
+2018-09-23 13:54:01,707 [main] INFO Base - ----------Test Started------------
+2018-09-23 13:54:22,890 [main] INFO Base - ---------Application Launched----------
+2018-09-23 13:54:32,395 [main] INFO TC01VerifyLoginPageDisplay - PaperWhite item is selected
+2018-09-23 13:54:35,473 [main] INFO TC01VerifyLoginPageDisplay - Qantity of PaperWhite is increased to 2
+2018-09-23 13:54:35,838 [main] INFO TC01VerifyLoginPageDisplay - PapaerWhite is added into Cart
+2018-09-23 13:54:40,813 [main] INFO TC01VerifyLoginPageDisplay - Now, you have proceeded for checkout
+2018-09-23 13:54:43,747 [main] INFO Base - ----------Test End------------
+2018-09-23 14:00:29,459 [main] INFO Base - ----------Test Started------------
+2018-09-23 14:00:54,589 [main] INFO Base - ---------Application Launched----------
+2018-09-23 14:01:02,672 [main] INFO TC01VerifyLoginPageDisplay - PaperWhite item is selected
+2018-09-23 14:01:07,426 [main] INFO TC01VerifyLoginPageDisplay - Qantity of PaperWhite is increased to 2
+2018-09-23 14:01:07,910 [main] INFO TC01VerifyLoginPageDisplay - PapaerWhite is added into Cart
+2018-09-23 14:01:12,436 [main] INFO TC01VerifyLoginPageDisplay - Now, you have proceeded for checkout
+2018-09-23 14:01:15,487 [main] INFO Base - ----------Test End------------
+2018-09-23 14:46:59,072 [main] INFO Base - ----------Test Started------------
+2018-09-23 14:47:24,413 [main] INFO Base - ---------Application Launched----------
+2018-09-23 14:47:28,559 [main] INFO Base - ----------Test End------------
+2018-09-23 14:48:22,456 [main] INFO Base - ----------Test Started------------
+2018-09-23 14:48:44,977 [main] INFO Base - ---------Application Launched----------
+2018-09-23 14:48:54,001 [main] INFO TC01VerifyLoginPageDisplay - PaperWhite item is selected
+2018-09-23 14:48:58,045 [main] INFO TC01VerifyLoginPageDisplay - Qantity of PaperWhite is increased to 2
+2018-09-23 14:48:58,665 [main] INFO TC01VerifyLoginPageDisplay - PapaerWhite is added into Cart
+2018-09-23 14:49:04,568 [main] INFO TC01VerifyLoginPageDisplay - Now, you have proceeded for checkout
+2018-09-23 14:49:07,060 [main] INFO Base - ----------Test End------------
+2018-09-23 14:53:42,098 [main] INFO Base - ----------Test Started------------
+2018-09-23 14:54:02,990 [main] INFO Base - ---------Application Launched----------
+2018-09-23 14:54:12,271 [main] INFO TC01VerifyLoginPageDisplay - PaperWhite item is selected
+2018-09-23 14:54:16,722 [main] INFO TC01VerifyLoginPageDisplay - Qantity of PaperWhite is increased to 2
+2018-09-23 14:54:17,206 [main] INFO TC01VerifyLoginPageDisplay - PapaerWhite is added into Cart
+2018-09-23 14:54:27,539 [main] INFO TC01VerifyLoginPageDisplay - Now, you have proceeded for checkout
+2018-09-23 14:54:30,689 [main] INFO Base - ----------Test End------------
+2018-09-23 14:59:49,699 [main] INFO Base - ----------Test Started------------
+2018-09-23 15:00:10,265 [main] INFO Base - ---------Application Launched----------
+2018-09-23 15:00:19,563 [main] INFO TC01VerifyLoginPageDisplay - PaperWhite item is selected
+2018-09-23 15:00:24,045 [main] INFO TC01VerifyLoginPageDisplay - Qantity of PaperWhite is increased to 2
+2018-09-23 15:00:24,412 [main] INFO TC01VerifyLoginPageDisplay - PapaerWhite is added into Cart
+2018-09-23 15:00:32,084 [main] INFO TC01VerifyLoginPageDisplay - Now, you have proceeded for checkout
+2018-09-23 15:00:34,588 [main] INFO Base - ----------Test End------------
+2018-09-23 15:04:26,876 [main] INFO Base - ----------Test Started------------
+2018-09-23 15:04:59,567 [main] INFO Base - ---------Application Launched----------
+2018-09-23 15:05:07,118 [main] INFO TC01VerifyLoginPageDisplay - PaperWhite item is selected
+2018-09-23 15:05:12,335 [main] INFO TC01VerifyLoginPageDisplay - Qantity of PaperWhite is increased to 2
+2018-09-23 15:05:12,768 [main] INFO TC01VerifyLoginPageDisplay - PapaerWhite is added into Cart
+2018-09-23 15:05:19,141 [main] INFO TC01VerifyLoginPageDisplay - Now, you have proceeded for checkout
+2018-09-23 15:05:21,511 [main] INFO Base - ----------Test End------------
+2018-09-23 15:08:00,055 [main] INFO Base - ----------Test Started------------
+2018-09-23 15:08:19,767 [main] INFO Base - ---------Application Launched----------
+2018-09-23 15:08:47,786 [main] INFO Base - ----------Test End------------
+2018-09-23 15:28:08,788 [TestNG-tests-1] INFO Base - ----------Test Started------------
+2018-09-23 15:29:40,551 [TestNG-tests-1] INFO Base - ---------Application Launched----------
+2018-09-23 15:29:51,501 [TestNG-tests-1] INFO TC01VerifyLoginPageDisplay - PaperWhite item is selected
+2018-09-23 15:30:07,166 [TestNG-tests-1] INFO TC01VerifyLoginPageDisplay - Qantity of PaperWhite is increased to 2
+2018-09-23 15:30:07,814 [TestNG-tests-1] INFO TC01VerifyLoginPageDisplay - PapaerWhite is added into Cart
+2018-09-23 15:30:14,921 [TestNG-tests-1] INFO TC01VerifyLoginPageDisplay - Now, you have proceeded for checkout
+2018-09-23 15:30:19,384 [TestNG-tests-1] INFO Base - ----------Test End------------
